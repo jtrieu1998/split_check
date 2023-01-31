@@ -19,3 +19,7 @@ https://app.mural.co/invitation/mural/checksplit0018/1674662321180?sender=u8ff0a
 ## **_Future Plans_**
 
 - Allow users to take a photo of receipt to extract data
+
+## **Tech Stack**
+- React Native
+- Node.js v16.0.0
