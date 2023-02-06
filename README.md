@@ -23,3 +23,11 @@ https://app.mural.co/invitation/mural/checksplit0018/1674662321180?sender=u8ff0a
 ## **Tech Stack**
 - React Native
 - Node.js v16.0.0
+
+## **Steps to run**
+- clone repo
+- run `npm install`
+
+*Test*
+- `npm install`
+- `npm test`
